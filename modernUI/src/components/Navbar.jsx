@@ -36,7 +36,7 @@ export default function Navbar() {
               Pricing
             </a>
             <a 
-              href="#Testimonials" 
+              href="#testimonials" 
               className="text-gray-300 hover:text-white text-sm lg:text-base"
             >
               Testimonials
@@ -74,7 +74,7 @@ export default function Navbar() {
                 Pricing
               </a>
               <a 
-                href="#Testimonials" 
+                href="#testimonials" 
                 onClick={() => setMobileMenuIsOpen(false)}
                 className="block text-gray-300 hover:text-white text-sm lg:text-base"
               >
